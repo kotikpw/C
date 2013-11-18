@@ -1,5 +1,4 @@
 Sprawdź czy potrafisz wykonać następujące polecenia BEZ wchodzenia w tryb edycji (Insertion mode).
-Dozwolone jest wykorzystanie podmiany znaków za pomocą SHIFT-r.
 
 1. przenieść funkcję simpson na górę pliku (ma to być pierwsza metoda),
 2. zamienić wszystkie liczby float na double,
