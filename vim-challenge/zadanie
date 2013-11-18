@@ -1,0 +1,10 @@
+Sprawdź czy potrafisz wykonać następujące polecenia BEZ wchodzenia w tryb edycji (Insertion mode).
+Dozwolone jest wykorzystanie podmiany znaków za pomocą SHIFT-r.
+
+1. przenieść funkcję simpson na górę pliku (ma to być pierwsza metoda),
+2. zamienić wszystkie liczby float na double,
+3. sformatować metodę integral,
+4. dodać plik math.h i wykorzystać zmienną M_PI,
+5. stworzyć funkcję cube na podstawie funkcji square, liczącą trzecią potęgę x,
+6. podmienić wywołanie funkcji square podczas liczenia jej całki,
+7. zamienić si na subinterval w funkcji integral.
