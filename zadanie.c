@@ -17,3 +17,7 @@ main() {
 
 	return 0;
 }
+
+void *alloc(const char *fmt, ...) 
+
+}
